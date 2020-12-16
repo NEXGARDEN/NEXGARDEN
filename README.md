@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Github Main Page</h3>
+<h3 align="center">We are the future of farming.</h3>
 
 <p align="center">
   Nexgarden exists because we feel a social responsibility to be a part of the solution, and bringing you delicious greens is just the first step. 
