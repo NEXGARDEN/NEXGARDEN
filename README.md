@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://www.nexgarden.com/">
+    <img src="https://github.com/NEXGARDEN/Nexgarden/blob/main/Website/assets/Color/F_Logo_NXG_Primary_NoTag.png" alt="The Future of Farming" width="400" height="225">
+  </a>
+</p>
 
-<!--
-**NEXGARDEN/NEXGARDEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Github Main Page</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Nexgarden exists because we feel a social responsibility to be a part of the solution, and bringing you delicious greens is just the first step. 
+  We’re environmentalists, tech geeks, and foodies who believe in systemic sustainable change for our food systems.
+  <br>
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
